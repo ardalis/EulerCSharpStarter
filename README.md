@@ -6,6 +6,10 @@ A starting point for solving Project Euler problems using C#.
 
 If you like this project, please give it a star. Thanks!
 
+### Other Project Euler Starters
+
+- [Node / JavaScript](https://github.com/ardalis/EulerNodeStarter)
+
 # Getting Started
 
 You can either download/clone this repo, or probably better is to fork it to your own account. Then follow the instructions below.
