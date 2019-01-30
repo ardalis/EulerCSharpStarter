@@ -1,6 +1,8 @@
-# EulerCSharpStarter
+# Euler C# Starter
 
 A starting point for solving Project Euler problems using C#.
+
+My progress: ![ardalis Euler Progress](https://projecteuler.net/profile/ardalis.png)
 
 ## Give a Star! :star:
 
